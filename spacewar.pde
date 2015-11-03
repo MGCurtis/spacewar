@@ -1,9 +1,9 @@
 void setup()
 {
-  
+  size(500,500);
 }
 
 void draw()
 {
-  text("Hello Git!", 100, 100)
+  text("First change to code", 100, 100);
 }
